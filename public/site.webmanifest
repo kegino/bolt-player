@@ -1,0 +1,15 @@
+{
+  "name": "Bolt Player",
+  "short_name": "Bolt Player",
+  "description": "Bolt Player - Reprodutor IPTV de Alta Performance sem travar com +35.000 canais em 4K",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080a18",
+  "theme_color": "#facc15",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "/favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/favicon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
